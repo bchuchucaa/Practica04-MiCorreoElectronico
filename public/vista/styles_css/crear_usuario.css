@@ -1,0 +1,21 @@
+form{
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	width: 30%;
+	margin-left: 30%;
+	margin-top: 20%;
+	background-color: deepskyblue;
+	
+}
+body{
+	background-image: url(back2.jpg);
+	
+}
+input{
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+input:hover{
+	background-color: beige;
+}

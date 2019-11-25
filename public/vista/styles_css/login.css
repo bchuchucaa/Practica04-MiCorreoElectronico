@@ -1,0 +1,35 @@
+body{
+    background-color: burlywood;
+    background-image: url("back.jpg");
+    
+        
+}
+form{
+    margin: 30%;
+	background-color: darkgrey;
+	width: 30%;
+}
+
+input{
+    width: 50%;
+    height: 20px;
+    display: block;
+	margin-left: 90px;
+}
+
+#login{
+	float: left;
+    width: 30%;
+    height: 20px;
+    margin: 2px;
+    margin-left: 0px;
+}
+label{
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+#register{
+	float: left;
+	width: 30%;
+	
+}

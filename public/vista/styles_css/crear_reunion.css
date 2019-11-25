@@ -1,0 +1,11 @@
+body{
+	background-image: url(back4.jpg);
+	background-color: antiquewhite;
+}
+
+
+table{
+	border-width: 3px;
+	border-color: burlywood;
+	border-style: solid;
+}

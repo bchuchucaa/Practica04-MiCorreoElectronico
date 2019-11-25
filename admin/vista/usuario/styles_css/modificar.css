@@ -1,0 +1,13 @@
+form{
+	margin-left: 30%;
+	margin-top: 10%;
+}
+input{
+	margin-bottom: 5px;
+}
+body{
+	background-image: url(back2.jpg);
+}
+input:hover{
+	background-color: burlywood;
+}
